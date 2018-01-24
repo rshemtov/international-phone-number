@@ -2,6 +2,7 @@ international-phone-number
 ==========================
 
 AngularJS directive implementing [intl-tel-input](https://github.com/Bluefieldscom/intl-tel-input) jQuery plugin.
+This repository is a fork of the official one, for purpose of NPM publish & maintain
 
 Installation
 --
